@@ -35,4 +35,6 @@ table, th, td {
 }
 img {
   float: center;
+  border-style: solid;
+  border-color: black;
 }
