@@ -34,7 +34,7 @@ table, th, td {
     border: 1px solid black;
 }
 img {
-  float: center;
+  margin: 50px;
   border-style: solid;
   border-color: black;
 }
