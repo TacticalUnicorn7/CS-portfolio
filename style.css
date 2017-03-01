@@ -29,6 +29,7 @@ li a:hover {
 }
 p {
   color: 669999;
+  text-align:center;
 }
 table, th, td {
     border: 1px solid black;
