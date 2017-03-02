@@ -36,6 +36,6 @@ table, th, td {
 }
 img {
   margin: 50px;
-  border-style: dotted;
+  border-style: solid;
   border-color: black;
 }
